@@ -2936,13 +2936,13 @@ textarea.form-control-lg {
 }
 .btn-primary {
   color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+  background-color: transparent;
+  border-color: #fff;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #d9aa00;
-  border-color: #cca000;
+  color: #000;
+  background-color: #fff;
+  border-color: #fff;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -10852,9 +10852,9 @@ p {
   }
 }
 .btn-xl {
-  padding: 1.25rem 2.5rem;
+  padding: 1rem 1rem;
   font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
