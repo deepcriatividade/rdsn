@@ -2941,7 +2941,7 @@ textarea.form-control-lg {
 .btn-contact:hover {
   color: #000;
   background-color: transparent;
-  border-color: #fff;
+  border-color: #ff;
 }
 .btn-primary {
   color: #fff;
@@ -10860,7 +10860,7 @@ p {
     padding: 9rem 0;
   }
 }
-.btn-l {
+.btn-x {
   padding: 0.1rem 0.1rem;
   font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-size: 1rem;
