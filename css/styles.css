@@ -10907,15 +10907,15 @@ p {
     padding-bottom: 1rem;
     border: none;
     background-color: #000;
-    transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+    transition: padding-top 0.5s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
     font-size: 1.5em;
-    transition: font-size 0.3s ease-in-out;
+    transition: font-size 0.5s ease-in-out;
   }
   #mainNav .navbar-brand img {
     height: 1.5rem;
-    transition: height 0.3s ease-in-out;
+    transition: height 0.5s ease-in-out;
   }
   #mainNav.navbar-shrink {
     padding-top: 1rem;
@@ -10923,11 +10923,11 @@ p {
     background-color: #000;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-size: 1.25em;
+    font-size: 1em;
   }
   #mainNav.navbar-shrink .navbar-brand svg,
 #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 1rem;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
