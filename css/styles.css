@@ -21,7 +21,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-font-sans-serif: "Instrument Sans", sans-serif;
+  --bs-font-sans-serif: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
@@ -39,7 +39,7 @@
 
 body {
   margin: 0;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -64,7 +64,7 @@ hr:not([size]) {
 h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -5499,7 +5499,7 @@ textarea.form-control-lg {
   z-index: 1080;
   display: block;
   margin: 0;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -5601,7 +5601,7 @@ textarea.form-control-lg {
   z-index: 1070;
   display: block;
   max-width: 276px;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5;
@@ -10843,7 +10843,7 @@ p {
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   margin-bottom: 4rem;
 }
 
@@ -10854,7 +10854,7 @@ p {
 }
 .btn-xl {
   padding: 1.25rem 2.5rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-size: 1.125rem;
   font-weight: 700;
 }
@@ -10877,13 +10877,13 @@ p {
 #mainNav .navbar-toggler {
   padding: 0.75rem;
   font-size: 0.75rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   text-transform: uppercase;
   font-weight: 700;
 }
 #mainNav .navbar-brand {
   color: #ffc800;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   letter-spacing: 0.0625em;
   text-transform: uppercase;
@@ -10892,7 +10892,7 @@ p {
   height: 1.5rem;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-size: 0.95rem;
   color: #fff;
   letter-spacing: 0.0625em;
@@ -10920,7 +10920,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #000;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -10952,14 +10952,14 @@ header.masthead .masthead-subheading {
   font-style: italic;
   line-height: 1.5rem;
   margin-bottom: 25px;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
 }
 header.masthead .masthead-heading {
   font-size: 3.25rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
 }
 
 @media (min-width: 768px) {
@@ -11015,13 +11015,13 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   margin-bottom: 0;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-subheading {
   font-style: italic;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
 }
 
 .portfolio-modal .modal-dialog {
@@ -11040,7 +11040,7 @@ header.masthead .masthead-heading {
 .portfolio-modal .modal-content p.item-intro {
   font-style: italic;
   margin-bottom: 2rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 2rem;
@@ -11283,22 +11283,22 @@ section#contact form#contactForm .form-control:focus {
   box-shadow: none;
 }
 section#contact form#contactForm ::-webkit-input-placeholder {
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm :-moz-placeholder {
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm ::-moz-placeholder {
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
 section#contact form#contactForm :-ms-input-placeholder {
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-weight: 700;
   color: #ced4da;
 }
@@ -11306,5 +11306,5 @@ section#contact form#contactForm :-ms-input-placeholder {
 .footer {
   text-align: center;
   font-size: 0.9rem;
-  font-family: "Instrument Sans";
+  font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
 }
