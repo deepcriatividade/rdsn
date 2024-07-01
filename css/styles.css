@@ -196,11 +196,11 @@ sup {
 }
 
 a {
-  color: #ffc800;
+  color: #fff;
   text-decoration: underline;
 }
 a:hover {
-  color: #cca000;
+  color: #fff;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -2902,7 +2902,7 @@ textarea.form-control-lg {
   display: inline-block;
   font-weight: 700;
   line-height: 1.5;
-  color: #fff;
+  color: #000;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
