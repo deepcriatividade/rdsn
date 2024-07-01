@@ -10872,7 +10872,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #000;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10889,7 +10889,7 @@ p {
   text-transform: uppercase;
 }
 #mainNav .navbar-brand img {
-  height: 1.5rem;
+  height: 1rem;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
