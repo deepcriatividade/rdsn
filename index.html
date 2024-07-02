@@ -19,20 +19,31 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-dark fixed-top navbar-shrink" id="mainNav">
+        <nav class="navbar navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/rudson-logo.svg" alt="..." /></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="fas fa-bars ms-1"></i>
+                <!-- Parte 1: Logotipo da empresa ou marca -->
+                <a class="navbar-brand" href="#page-top">
+                    <img src="assets/img/rudson-logo.svg" alt="...">
+                </a>
+        
+                <!-- Parte 2: Botão de alternância para o menu vertical -->
+                <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <svg class="svg-inline--fa fa-bars fa-w-14 ms-1" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
+                        <path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path>
+                    </svg>
                 </button>
+        
+                <!-- Parte 3: Botão de contato ou outro conteúdo -->
                 <a class="btn btn-primary btn-contate text-uppercase" href="#services">CONTATE AGORA</a>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
+        
+                <!-- Menu vertical que aparece ao clicar no botão de alternância -->
+                <div class="navbar-collapse collapse" id="navbarResponsive" style="">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">Serviços</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Portfólio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Sobre</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">Equipe</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#contact">Contato</a></li>
                     </ul>
                 </div>
             </div>
