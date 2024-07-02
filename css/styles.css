@@ -10906,9 +10906,6 @@ p {
   #mainNav {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    border-bottom: #1f1f1f;
-    border-style: opacity;
-    opacity: 1;
     background-color: #000;
     transition: padding-top 0.5s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
