@@ -10855,6 +10855,10 @@ p {
   font-weight: 700;
 }
 
+.btn-contate {
+  width: 200px;
+}
+
 .btn-social {
   height: 2.5rem;
   width: 2.5rem;
