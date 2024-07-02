@@ -3955,6 +3955,7 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  align-items: center;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
@@ -3972,7 +3973,6 @@ textarea.form-control-lg {
 .navbar-collapse {
   flex-basis: 100%;
   flex-grow: 1;
-  align-items: center;
 }
 
 .navbar-toggler {
@@ -10895,11 +10895,12 @@ p {
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
   font-size: 0.95rem;
+  font-weight: 700;
   color: #fff;
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #ff0000;
 }
 
 @media (min-width: 992px) {
