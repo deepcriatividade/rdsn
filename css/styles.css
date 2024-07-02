@@ -10856,7 +10856,8 @@ p {
 }
 
 .btn-contate {
-  width: 200px;
+  width: 8rem;
+  font-size: 0.7rem
 }
 
 .btn-social {
