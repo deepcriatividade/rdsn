@@ -3989,7 +3989,7 @@ textarea.form-control-lg {
   column-gap: 30px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 576px) {
   .hidden-on-small-screen {
     display: none;
   }
