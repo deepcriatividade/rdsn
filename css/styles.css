@@ -3974,7 +3974,8 @@ textarea.form-control-lg {
   height: min-content;
   overflow: visible;
   padding: 0px;
-  position: relative;
+  position: absolute;
+  bottom: 1rem;
   width: 100%;
   z-index: 1;
   color: #fff;
@@ -4005,6 +4006,8 @@ textarea.form-control-lg {
   flex-basis: 100%;
   flex-grow: 1;
   transition: 0.5s ease-in-out;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .navbar-toggler {
@@ -10926,7 +10929,7 @@ p {
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Instrument Sans", "Instrument Sans Placeholder", sans-serif;
-  font-size: 0.95rem;
+  font-size: 3rem;
   font-weight: 700;
   color: #fff;
   letter-spacing: 0.0625em;
