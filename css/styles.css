@@ -3965,6 +3965,20 @@ textarea.form-control-lg {
   position: static;
 }
 
+.navbar-rodape {
+  place-content: center space-between;
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-flow: row nowrap;
+  height: min-content;
+  overflow: visible;
+  padding: 0px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  }
+
 .navbar-text {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
