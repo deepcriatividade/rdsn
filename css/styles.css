@@ -3983,8 +3983,8 @@ textarea.form-control-lg {
   padding-top: 1.5rem;
   padding-bottom: 0.5rem;
   }
-.navbar-rodape .nav-item {
-  gap: 30px;
+.navbar-rodape .nav-rdp {
+  column-gap: 10px;
 }   
 
 .navbar-text {
