@@ -3974,7 +3974,7 @@ textarea.form-control-lg {
   height: min-content;
   overflow: visible;
   padding: 0px;
-  position: absolute;
+  position: fixed;
   bottom: 1rem;
   width: 100%;
   z-index: 1;
