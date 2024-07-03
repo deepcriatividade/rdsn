@@ -3978,7 +3978,8 @@ textarea.form-control-lg {
   width: 100%;
   z-index: 1;
   color: #fff;
-  font-size: 12px;
+  font-size: 18px;
+  font-weight: 600;
   padding-top: 1.5rem;
   padding-bottom: 0.5rem;
   }
