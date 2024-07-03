@@ -4001,6 +4001,7 @@ textarea.form-control-lg {
 }
 
 .navbar-collapse {
+  height: 100vh;
   flex-basis: 100%;
   flex-grow: 1;
 }
