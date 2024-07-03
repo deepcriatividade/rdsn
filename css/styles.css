@@ -3968,7 +3968,7 @@ textarea.form-control-lg {
 .navbar-rodape {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-direction: row;
   color: #fff;
   font-size: 18px;
