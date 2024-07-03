@@ -3975,6 +3975,8 @@ textarea.form-control-lg {
   font-weight: 600;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-left: 0;
+  margin-right: 0;
   }
 .navbar-rodape-item {
   display: inline-flex;
