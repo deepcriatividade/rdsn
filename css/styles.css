@@ -3989,6 +3989,12 @@ textarea.form-control-lg {
   column-gap: 30px;
 }
 
+@media (max-width: 768px) {
+  .hidden-on-small-screen {
+    display: none;
+  }
+}
+
 .navbar-text {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
