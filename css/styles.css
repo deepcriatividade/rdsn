@@ -3984,7 +3984,7 @@ textarea.form-control-lg {
   padding-bottom: 0.5rem;
   }
 .navbar-rodape-item {
-  display: grid;
+  display: inline-flex;
   grid-template-columns: auto;
   column-gap: 20px;
 }
