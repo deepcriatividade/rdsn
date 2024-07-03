@@ -3977,6 +3977,8 @@ textarea.form-control-lg {
   position: relative;
   width: 100%;
   z-index: 1;
+  color: #fff;
+  font-size: 12px;
   }
 
 .navbar-text {
