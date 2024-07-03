@@ -3968,9 +3968,7 @@ textarea.form-control-lg {
 .navbar-rodape {
   place-content: center space-between;
   align-items: center;
-  display: grid;
-  grid-template-columns: auto;
-  column-gap: 20px;
+  display: flex;
   flex: 0 0 auto;
   flex-flow: row nowrap;
   height: min-content;
@@ -3985,6 +3983,11 @@ textarea.form-control-lg {
   padding-top: 1.5rem;
   padding-bottom: 0.5rem;
   }
+.navbar-rodape-item {
+  display: grid;
+  grid-template-columns: auto;
+  column-gap: 20px;
+}
 
 .navbar-text {
   padding-top: 0.5rem;
