@@ -4004,6 +4004,7 @@ textarea.form-control-lg {
   height: 100vh;
   flex-basis: 100%;
   flex-grow: 1;
+  transition: 0.5s ease-in-out;
 }
 
 .navbar-toggler {
