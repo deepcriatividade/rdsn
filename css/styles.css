@@ -3986,7 +3986,7 @@ textarea.form-control-lg {
 .navbar-rodape-item {
   display: inline-flex;
   grid-template-columns: auto;
-  column-gap: 20px;
+  column-gap: 30px;
 }
 
 .navbar-text {
