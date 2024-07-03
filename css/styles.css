@@ -3966,22 +3966,19 @@ textarea.form-control-lg {
 }
 
 .navbar-rodape {
-  place-content: center space-between;
-  align-items: center;
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
   display: flex;
-  flex: 0 0 auto;
-  flex-flow: row nowrap;
-  height: min-content;
-  overflow: visible;
-  padding: 0px;
-  position: fixed;
-  bottom: 1rem;
-  width: 100%;
-  z-index: 1;
+  flex-wrap: wrap;
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) / -2);
+  margin-left: calc(var(--bs-gutter-x) / -2);
+  justify-content: space-between;
+  flex-direction: row;
   color: #fff;
   font-size: 18px;
   font-weight: 600;
-  padding-top: 1.5rem;
+  padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   }
 .navbar-rodape-item {
