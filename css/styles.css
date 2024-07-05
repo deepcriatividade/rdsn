@@ -10933,6 +10933,10 @@ p {
 }
 header.masthead {
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
