@@ -615,6 +615,12 @@ progress {
   color: #6c757d;
 }
 
+.footer-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .container,
 .container-fluid,
 .container-xxl,
