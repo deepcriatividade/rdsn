@@ -11297,6 +11297,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .footer {
   text-align: center;
   font-size: 0.9rem;
+  color: #fff;
   font-family: "Instrument Sans", sans-serif;
   font-weight: 700;
+  background-color: #000;
 }
