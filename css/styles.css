@@ -10903,7 +10903,7 @@ p {
   #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    border-bottom: 1px #fff;
+    border-bottom: 1px #161616 solid;
     background-color: #000;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
   }
