@@ -674,21 +674,6 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
-.footer-row {
-  --bs-gutter-x: 1.5rem;
-  --bs-gutter-y: 0;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-content: center;
-  flex-direction: row;
-}
-.footer-row > * {
-  flex-shrink: 0;
-  max-width: 100%;
-
-}
-
 .col {
   flex: 1 0 0%;
 }
