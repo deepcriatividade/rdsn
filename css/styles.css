@@ -10860,6 +10860,13 @@ p {
   border-radius: 10%;
 }
 
+.btn-social-footer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
