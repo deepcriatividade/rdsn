@@ -10950,10 +10950,13 @@ header.masthead {
   background-size: cover;
 }
 header.masthead .masthead-subheading {
-  font-size: 1.5rem;
-  font-style: italic;
-  line-height: 1.5rem;
-  margin-bottom: 25px;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  line-height: 1.25rem;
+  color: #ffffffb3;
+  margin-bottom: 2rem;
   font-family: "Instrument Sans", sans-serif;
 }
 header.masthead .masthead-heading {
