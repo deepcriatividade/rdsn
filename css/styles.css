@@ -590,9 +590,6 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
-}
-
-.img-fluid-footer {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
 }
