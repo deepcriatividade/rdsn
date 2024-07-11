@@ -10977,13 +10977,13 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 1.125rem;
+    font-size: 5.625rem;
     font-style: normal;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    color: #ffffffb3;
-    line-height: 2.25rem;
-    margin-bottom: 1rem;
+    font-weight: 700;
+    letter-spacing: -4px;
+    color: #fff;
+    line-height: 70px;
+    margin-bottom: ;
   }
 }
 
