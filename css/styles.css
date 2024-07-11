@@ -10958,7 +10958,6 @@ header.masthead .masthead-subheading {
   line-height: 1.25rem;
   color: rgba(255, 255, 255, 0.7);
   font-family: "Instrument Sans", sans-serif;
-  margin-bottom: 2rem;
 }
 header.masthead .masthead-heading {
   font-size: 5.625rem;
@@ -10981,7 +10980,6 @@ header.masthead .masthead-heading {
     letter-spacing: 0.5px;
     line-height: 1.25rem;
     color: rgba(255, 255, 255, 0.7);
-    margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
     font-size: 5.625rem;
@@ -11339,7 +11337,6 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: #31ee33;
   border-radius: 50%;
   animation: pulse 1s infinite;
-  margin-bottom: 2rem;
   margin-right: 1rem;
 }
 
