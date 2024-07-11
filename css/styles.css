@@ -10956,7 +10956,6 @@ header.masthead .masthead-subheading {
   letter-spacing: 0.5px;
   line-height: 1.25rem;
   color: rgba(255, 255, 255, 0.7);
-  margin-bottom: 2rem;
   font-family: "Instrument Sans", sans-serif;
 }
 header.masthead .masthead-heading {
@@ -11333,9 +11332,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .online-indicator {
-  width: 20px;
-  height: 20px;
-  background-color: green;
+  width: 10px;
+  height: 10px;
+  background-color: #0a98b4;
   border-radius: 50%;
   animation: pulse 1s infinite;
 }
