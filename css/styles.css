@@ -10958,6 +10958,7 @@ header.masthead .masthead-subheading {
   line-height: 1.25rem;
   color: rgba(255, 255, 255, 0.7);
   font-family: "Instrument Sans", sans-serif;
+  margin-bottom: 2rem;
 }
 header.masthead .masthead-heading {
   font-size: 5.625rem;
