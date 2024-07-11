@@ -11468,7 +11468,6 @@ p {
 .slider:after {
   content:'';
   left:98px;
-  height:90vh;
   position:absolute;
   width:150px;
   z-index:100;
@@ -11479,7 +11478,6 @@ p {
 .slider:before {
   content:'';
   right:98px;
-  height:90vh;
   position:absolute;
   width:150px;
   z-index:100;
