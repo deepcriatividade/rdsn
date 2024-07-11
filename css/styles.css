@@ -10952,11 +10952,8 @@ header.masthead {
 header.masthead .masthead-subheading {
   font-size: 1.125rem;
   font-style: normal;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  line-height: 1.25rem;
-  color: #ffffffb3;
-  margin-bottom: 2rem;
+  line-height: 1.5rem;
+  margin-bottom: 25px;
   font-family: "Instrument Sans", sans-serif;
 }
 header.masthead .masthead-heading {
@@ -10974,9 +10971,12 @@ header.masthead .masthead-heading {
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
-    font-size: 2.25rem;
-    font-style: italic;
-    line-height: 2.25rem;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 1.25rem;
+    color: rgba(255, 255, 255, 0.7);
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
@@ -10986,7 +10986,7 @@ header.masthead .masthead-heading {
     letter-spacing: -4px;
     color: #fff;
     line-height: 70px;
-    margin-bottom: ;
+    margin-bottom:;
   }
 }
 
