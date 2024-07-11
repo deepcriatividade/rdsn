@@ -11357,6 +11357,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   border-radius: 50%;
   animation: pulse 1s infinite;
   margin-right: 1rem;
+  display: inline-block;
 }
 
 @keyframes pulse {
