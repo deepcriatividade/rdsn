@@ -11021,6 +11021,8 @@ header.masthead .masthead-heading {
   background-color: #fff;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
+  border: 1px #1f1f1f solid;
+  border-radius: 10px;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
